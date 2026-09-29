@@ -16,7 +16,7 @@ Verify that the login functionality works correctly with valid and invalid user 
 | Test ID | Test Scenario | Test Steps | Expected Result | Status |
 |---|---|---|---|---|
 | TC-001 | Login with valid credentials | Enter valid username and password, then click Login | User should be successfully logged in | Pass |
-| TC-002 | Login with incorrect password | Enter valid username and incorrect password, then click Login | An error message should be displayed | Not Run |
+| TC-002 | Login with incorrect password | Enter valid username and incorrect password, then click Login | An error message should be displayed | Pass |
 | TC-003 | Login with incorrect username | Enter incorrect username and valid password, then click Login | An error message should be displayed | Not Run |
 | TC-004 | Login with both fields empty | Leave username and password empty, then click Login | Validation messages should be displayed | Not Run |
 | TC-005 | Login with empty password | Enter a valid username and leave password empty | Password validation message should be displayed | Not Run |
