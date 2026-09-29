@@ -6,7 +6,7 @@ Verify that the login functionality works correctly with valid and invalid user 
 
 ## Test Environment
 
-- Application: Login System
+- Application: SauceDemo
 - Testing Type: Manual Testing
 - Browser: Google Chrome
 - Operating System: Windows 11
